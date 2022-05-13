@@ -2,7 +2,7 @@
 <h1 align="center">~ 🌻 𝚑𝚒! 𝚠𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 🌻 ~</h1>
 <br>
 <div align="center">
-  <a href="https://laby.net/@liebesschwur" >
+  <a href="https://discordapp.com/users/190511633636917248" >
    <img src="https://lanyard.cnrad.dev/api/190511633636917248"  />
   </a>
   <br>
