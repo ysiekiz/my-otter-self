@@ -3,7 +3,7 @@
 <br>
 <div align="center">
   <a href="https://discordapp.com/users/190511633636917248" >
-   <img src="https://lanyard.cnrad.dev/api/190511633636917248"  />
+   <img src="https://lanyard.cnrad.dev/api/190511633636917248&idleMessage=:i'm probably asleep or outside the house~"  />
   </a>
   <br>
   <p>˜”*°•.˜”*°• 𝚕𝚎𝚊𝚟𝚎 𝚖𝚎 𝚊 𝚗𝚒𝚌𝚎 𝚍𝚖 •°*”˜.•°*”˜</p>
