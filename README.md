@@ -3,7 +3,7 @@
 <br>
 <div align="center">
   <a href="https://discordapp.com/users/190511633636917248" >
-   <img src="https://lanyard.cnrad.dev/api/190511633636917248"
+   <img src="https://lanyard.cnrad.dev/api/190511633636917248?idleMessage=otter is probably asleep or outside..."
         />
   </a>
   <br>
