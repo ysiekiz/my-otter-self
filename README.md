@@ -10,6 +10,12 @@
   <p>˜”*°•.˜”*°• 𝚕𝚎𝚊𝚟𝚎 𝚖𝚎 𝚊 𝚗𝚒𝚌𝚎 𝚍𝚖 •°*”˜.•°*”˜</p>
 </div>
  <br>
+  <p align="center"> matching pfps with <a href="https://github.com/dreamscached">@dreamscached</a> <br>
+    <br>
+  <a href="https://github.com/my-otter-self/mas_hydro/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=my-otter-self/mas_hydro&max=6" />
+  </a>
+</p>
 <div>
 <img src="https://steamuserimages-a.akamaihd.net/ugc/920297026158562759/FFEA389EB65A987763AC095E0F81BB747176E209/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" align="right">
  <h2 align="center"> 🦦 ~ ａｂｏｕｔ ｍｅ ~ 🦦 </h2><br>
