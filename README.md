@@ -10,7 +10,13 @@
   <p>˜”*°•.˜”*°• 𝚕𝚎𝚊𝚟𝚎 𝚖𝚎 𝚊 𝚗𝚒𝚌𝚎 𝚍𝚖 •°*”˜.•°*”˜</p>
 </div>
  <br>
-  <p align="center"> matching pfps with <a href="https://github.com/dreamscached">@dreamscached</a> <br>
+ <p align="center"> 
+   matching pfps with my best friend, <a href="https://github.com/dreamscached">@dreamscached</a> <br>
+   <br>
+  <a href="https://github.com/my-otter-self/mas_hydro/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=my-otter-self/mas_hydro&max=6" />
+  </a>
+</p> 
     <br>
 </p>
 <div>
