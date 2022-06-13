@@ -59,4 +59,4 @@
 </div>
 </div>
 </body>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=my-otter-self&show_icons=true&theme=dark&title_color=F8F1AE&icon_color=F8F1AE&border=F8F1AE"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=my-otter-self&show_icons=true&theme=dark&title_color=purple&icon_color=purple&border=purple"/></p>
