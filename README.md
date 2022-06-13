@@ -1,29 +1,17 @@
 <body>
-<h1 align="center">~ 🌻 𝚑𝚒! 𝚠𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 🌻 ~</h1>
+<h1 align="center">~ 🦦 𝚑𝚒! 𝚠𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 🦦 ~</h1>
 <br>
 <div align="center">
   <a href="https://discordapp.com/users/190511633636917248" >
    <img src="https://lanyard.cnrad.dev/api/190511633636917248?idleMessage=otter is probably asleep or outside..."
         />
   </a>
-  <br>
-  <p>˜”*°•.˜”*°• 𝚕𝚎𝚊𝚟𝚎 𝚖𝚎 𝚊 𝚗𝚒𝚌𝚎 𝚍𝚖 •°*”˜.•°*”˜</p>
+  <p>˜”*°•.˜”*°• 𝚕𝚎𝚊𝚟𝚎 𝚖𝚎 𝚊 𝚗𝚒𝚌𝚎 𝚍𝚖 •°*”˜.•°*”˜</p><br>
 </div>
- <br>
- <p align="center"> 
-   matching pfps with my best friend, <a href="https://github.com/dreamscached">@dreamscached</a> <br>
-   <br>
-  <a href="https://github.com/my-otter-self/mas_hydro/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=my-otter-self/mas_hydro&max=6" />
-  </a>
-</p> 
-    <br>
-</p>
 <div>
-<img src="https://steamuserimages-a.akamaihd.net/ugc/920297026158562759/FFEA389EB65A987763AC095E0F81BB747176E209/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" align="right">
- <h2 align="center"> 🦦 ~ ａｂｏｕｔ ｍｅ ~ 🦦 </h2><br>
+<a href="https://www.linkpicture.com/view.php?img=LPic62a68f7261b962108652844"><img src="https://www.linkpicture.com/q/Lontrinha-banner.jpg" type="image"></a> <br><br>
 <li>
-<b>𝚌𝚊𝚕𝚕 𝚖𝚎:</b> 𝚘𝚝𝚝𝚎𝚛
+<b>𝚌𝚊𝚕𝚕 𝚖𝚎:</b> 𝚘𝚝𝚝𝚎𝚛 / 𝚕𝚘𝚗𝚝𝚛𝚒𝚗𝚑𝚊
 </li>
 <li>
 <b>𝚏𝚛𝚘𝚖:</b> 𝚋𝚛𝚊𝚣𝚒𝚕
@@ -46,7 +34,7 @@
 <br>
 </div>
 <div>
-<h2 align="center">            ~ ⭐ ｓｋｉｌｌｓ ⭐ ~</h2><br>
+<p align="center"><a href="https://www.linkpicture.com/view.php?img=LPic62a690c7285271065973265"><img src="https://www.linkpicture.com/q/4Overlays.png" type="image"></a><br></p>
 <p>
 </div>
 <div>
@@ -54,22 +42,18 @@
 𝚒 𝚠𝚎𝚗𝚝 𝚏𝚘𝚛 𝚊 𝚜𝚎𝚖𝚎𝚜𝚝𝚎𝚛 𝚘𝚏 𝚙𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝚌𝚘𝚕𝚕𝚎𝚐𝚎, 𝚋𝚞𝚝 𝚍𝚛𝚘𝚙𝚙𝚎𝚍 𝚒𝚝. 𝚜𝚝𝚒𝚕𝚕 𝚐𝚘𝚝 𝚝𝚑𝚎 𝚙𝚊𝚜𝚜𝚒𝚘𝚗 𝚝𝚑𝚘, 𝚊𝚗𝚍 𝚝𝚛𝚢 𝚝𝚘 𝚕𝚎𝚊𝚛𝚗 𝚠𝚑𝚊𝚝𝚎𝚟𝚎𝚛 𝚒𝚜 𝚛𝚎𝚕𝚊𝚝𝚎𝚍 𝚝𝚘 𝚖𝚢 𝚘𝚋𝚜𝚎𝚜𝚜𝚒𝚘𝚗𝚜 (𝚍𝚍𝚕𝚌, 𝚙𝚎𝚛 𝚎𝚡𝚊𝚖𝚙𝚕𝚎), 𝚑𝚎𝚑.
 </p>
 <br>
-<h2 align="center">           🎇 ~ ｓａｙ ｈｉ！~ 🎇</h2>
-<br><img src="https://i.redd.it/daixsm5419711.jpg" align="right" width="373.5px">
-<br>
+<p align="center"><a href="https://www.linkpicture.com/view.php?img=LPic62a690c7285271065973265"><img src="https://www.linkpicture.com/q/51Overlays.png" type="image"></a> </p>
 <p align="center">𝚌𝚘𝚗𝚜𝚒𝚍𝚎𝚛 𝚕𝚎𝚊𝚟𝚒𝚗𝚐 𝚊 𝚜𝚝𝚊𝚛 𝚒𝚗 𝚖𝚢 𝚛𝚎𝚙𝚘𝚜!<br>
 𝚊𝚗𝚍 𝚌𝚑𝚎𝚌𝚔 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕 𝚙𝚛𝚘𝚏𝚒𝚕𝚎𝚜~<br>
 <a href=https://your-otter-friend.carrd.co/>𝚑𝚎𝚛𝚎 𝚊𝚛𝚎 𝚊𝚕𝚕 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜 𝚒𝚗 𝚊 𝚌𝚊𝚛𝚛𝚍.</a>
 </p>
 <p align="center"><a href="https://ko-fi.com/X7X3CTDJH."target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg"/><br>
-<p align="center"><a href="https://open.spotify.com/user/aureate." target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a> <a href="https://discord.gg/suuz4CUWSp" target="_blank"><img src="https://img.shields.io/badge/%3Cwork corner%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a></p> <p align="center"><a href="https://www.reddit.com/user/my-otter-self" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a> <a href="https://www.tiktok.com/@touchyourhearttwice" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"/></a> <a href="mailto:iamaureate@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></p>
+<p align="center"><a href="https://open.spotify.com/user/aureate." target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a> <a href="https://discord.gg/suuz4CUWSp" target="_blank"><img src="https://img.shields.io/badge/%3Cwork corner%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a></p> <p align="center"><a href="https://www.reddit.com/user/my-otter-self" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a> <a href="https://www.tiktok.com/@touchyourhearttwice" target="_blank"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"/></a> <a href="mailto:otter@mon.icu" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></p>
 </div>
-<br><br>
+<br>
 <div>
-<h2 align="center">☀️ ~ ｔｈａｎｋｓ ｆｏｒ ｐａｓｓｉｎｇ ｂｙ！ ~ ☀️</h2>
 <div align="center">
-<img src="https://c.tenor.com/E8thhC52PLUAAAAC/monika-blushing.gif"><br>
-<p align="center">j̴͎͈͇̩̤̖͙͓̺̉͑u̸̡̢͍̬̣͖̬̓͘ṡ̵̺̼͇̽̈͌͝ẗ̷͉͓̼͔̖̪̭̮̪́̇͊̀͋͒̈̽̃̕ ̴̨̛̖̰̱̝̐̃̄͑͠m̸̡̯̞̩̄̋͂̏o̷̩̓͋̿̑͜n̶̛̩͚̔̈́́̓̅̃̒̚i̷͓̭͎̺̳͖̜̙̭̣͛̀͗̋̉̀̍̑̚ķ̴͚͚̺͑̈́͐͊a̶͓̪̱̙̺͔̺̳̎͛͊̋̿̿̊͆͘ͅ</p>
+<a href="https://www.linkpicture.com/view.php?img=LPic62a68eb09839234223738"><img src="https://www.linkpicture.com/q/Screens.png" type="image"></a><br>
 </div>
 <hr>
 </div>
