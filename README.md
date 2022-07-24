@@ -1,13 +1,5 @@
 <body>
 <h1 align="center">~ 🦦 𝚑𝚒! 𝚠𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 🦦 ~</h1>
-<br>
-<div align="center">
-  <a href="https://discordapp.com/users/190511633636917248" >
-   <img src="https://lanyard.cnrad.dev/api/190511633636917248?idleMessage=otter is probably asleep or outside..."
-        />
-  </a>
-  <p>˜”*°•.˜”*°• 𝚕𝚎𝚊𝚟𝚎 𝚖𝚎 𝚊 𝚗𝚒𝚌𝚎 𝚍𝚖 •°*”˜.•°*”˜</p><br>
-</div>
 <div>
 <a href="https://www.linkpicture.com/view.php?img=LPic62a68f7261b962108652844"><img src="https://www.linkpicture.com/q/Lontrinha-banner.jpg" type="image"></a> <br><br>
 <li>
