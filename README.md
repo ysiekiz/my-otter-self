@@ -53,4 +53,4 @@
 </body>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=my-otter-self&show_icons=true&theme=dark&title_color=purple&icon_color=purple&border=purple"/></p>
 
-<p align="center"><a href="https://discord.com/users/190511633636917248"><img src="https://lanyard.cnrad.dev/api/190511633636917248"/></p>
+<p align="center"><a href="https://discord.com/users/190511633636917248"><img src="https://lanyard.cnrad.dev/api/190511633636917248?&idleMessage=otter%20is%20touching%20grass..."/></p>
