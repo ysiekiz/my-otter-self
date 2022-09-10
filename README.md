@@ -53,7 +53,7 @@
 </body>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=my-otter-self&show_icons=true&theme=dark&title_color=purple&icon_color=purple&border=purple"/></p>
 
-<p align="center"><a href="https://discord.com/users/190511633636917248"><img src="https://lanyard.cnrad.dev/api/190511633636917248?&idleMessage=otter%20is%20touching%20grass..."/></p>
+<p align="center"><a href="https://discord.com/users/190511633636917248"><img src="https://lanyard.cnrad.dev/api/190511633636917248?&idleMessage=otter%20is%20touching%20grass..."/></a></p>
 
 <p align="center">also, you should visit my best friend's profile too! :)<br>
 <a href="https://github.com/dreamscached"><img src="https://github-stats-alpha.vercel.app/api?username=dreamscached&cc=000&tc=fff&ic=fff&bc=000"/></a></p>
